@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+lead_engine_v2.py
+lead_engine_integrated.py
+README.txt
+uploads/
+*.csv
+templates/dashboard.html
+templates/detail.html
+templates/login.html
+templates/base.html
+templates/*BEFORE*.html
